@@ -14,7 +14,7 @@
    font-weight: 900;
    font-size: 54px;
    line-height: 58px;
-   letter-spacing: 0%;
+   letter-spacing: normal;
 
 }
 
@@ -25,7 +25,7 @@
    font-weight: 400;
    font-size: 24px;
    line-height: 34px;
-   letter-spacing: 0%;
+   letter-spacing: normal;
 }
 
 .intro__autor{
@@ -37,7 +37,7 @@
    font-weight: 400;
    font-size: 24px;
    line-height: 34px;
-   letter-spacing: 0%;
+   letter-spacing: normal;
    text-align: right;
 }
 
@@ -47,6 +47,6 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 163%;
-    letter-spacing: 0%;
+    letter-spacing: normal;
 
 }
