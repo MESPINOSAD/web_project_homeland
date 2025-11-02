@@ -5,7 +5,7 @@
   left: 148px;
 }
 
-.lead__title {
+.lead__title span{
   display: block;
   margin-top: 50px;
   margin-left: auto;
@@ -17,8 +17,10 @@
   line-height: 100px;
 }
 
+
 .lead__subtitle {
   display: block;
+  max-width: 720px;
   width: 100%;
   margin-top: 72px;
   margin-left: auto;
@@ -29,6 +31,7 @@
   line-height: 36px;
   letter-spacing: 0;
 }
+
 
 .lead__image {
   display:block;
