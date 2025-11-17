@@ -6,6 +6,12 @@
     align-items: center;
 }
 
+.header__logo{
+    width: 255px;
+    height: 69px;
+    margin-top:34px;
+    left:513px;
+}
 
 
 
@@ -21,12 +27,6 @@
 }
 
 
-.header__logo{
-    width: 255px;
-    height: 69px;
-    margin-top:34px;
-    left:513px;
-}
 
 
 @media screen and (max-width: 320px){
