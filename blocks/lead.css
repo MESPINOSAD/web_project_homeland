@@ -1,5 +1,6 @@
 .lead {
   max-width: 984PX;
+  width: 100%;
   height: auto;
   top: 194px;
   left: 148px;
@@ -50,11 +51,13 @@
     width: 70%;
     
   }
+
   .lead__subtitle {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 16px;
     
   }
+
   .lead__image {
     height: auto;
     margin: auto;
@@ -73,7 +76,8 @@
     line-height: 30px;
   }
   .lead__image{
-    width: 768px;
+    width: 100%;
+    max-width: 768px;
     margin: auto;
   }
 }

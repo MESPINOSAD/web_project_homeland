@@ -6,6 +6,7 @@
    padding-top: 56px;
    padding-bottom: 56px;
    margin: 0 auto;
+   box-sizing: border-box;
 }
 
 
@@ -71,13 +72,29 @@
 }
 
 
+.intro__title {
+   /*width: 90%;
+   max-width: 710px;
+   top:1269px;
+   left:148px;
+   font-weight: 700;*/
+   font-size: 32px;
+   /*line-height: 0.9;
+   letter-spacing: normal;
+   font-family: "Inter";*/
+}
+
+
+
+
+
 
 }
 
 @media screen and (min-width: 321px) and (max-width:768px){
    .intro{
-      width: 720px;
-      height: 573px;
+      max-width: 720px;
+      width: 100%;
       margin: auto;
    }
  
@@ -101,7 +118,6 @@
    height: 182px;
    font-family: "Inter";
    letter-spacing: 0.19px;
-
    font-size:14px;
 
 }
@@ -109,8 +125,8 @@
 
 @media screen and (min-width: 769px) and (max-width: 1280px) {
    .intro{
-      padding:0 40px ;
-      width: 98%;
+      /*padding:0 40px ;*/
+      width: 100%;
       
    }
    .intro__autor{
